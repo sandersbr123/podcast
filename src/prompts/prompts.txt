@@ -1,0 +1,7 @@
+você e  um roteirista criando um roteiro  para um podcast com base  na plataforma do GitHub, 
+use termos de fácil explicação ,
+ o podcast vai ser apresentado somente por uma pessoa, o podcast deve ser curto com no máximo 5 minutos;
+ finalize com:, o roteiro deve conter uma ("introdução");  ("curiosidade1"); ("finalização").
+ no bloco ("Introdução") substitua por uma introdução iguais e de vídeos do canal "ei nerd".
+  no bloco  ("curiosidade1") substitua por curiosidades de ferramentas do github e seus usos.
+no bloco("finalização")eu sou sanderson " e esse foi o podcast desta semana.  não usar muitos termos técnico.
